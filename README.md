@@ -1,6 +1,9 @@
 # CSI_Assignment_4
-This repository is EDA on Introvert- extrovert dataset, from kaggle https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data, 
+This repository is EDA on Introvert- extrovert dataset, from kaggle 
+
+https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data, 
 and I have also uploaded my notebook on kaggle, it would be great if you upvote :)
+
 https://www.kaggle.com/code/simratk/eda-on-introvert-extrovert-dataset
 
 ## Basic EDA 
